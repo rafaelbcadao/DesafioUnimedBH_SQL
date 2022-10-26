@@ -1,11 +1,11 @@
 # DesafioUnimedBH_SQL
 Repositório criado para os desafios do módulo de base de dados SQL e NOSQL
 
-#Desafio nº1 - E-commerce
+##**Desafio nº1 - E-commerce**
 
 No desafio de E-commerce foi proposto que o cliente pudesse ser Pessoa Física (PF) ou pessoa jurídica (PJ), porém é um item exclusivo, ou seja não pode ser as duas opções. Quanto ao pagamento pode haver mais de uma forma cadastrada e quanto á entrega possui status e código de rastreio.
 
-#Desafio nº 2 - Sistema para oficina mecânica
+##**Desafio nº 2 - Sistema para oficina mecânica**
 
 Foi proposto a estruturação de um sistema de controle e gerenciamento de execução de ordem de serviço em uma oficina.
 •	Os tipos de serviços podem ser: Conserto ou Revisão;
